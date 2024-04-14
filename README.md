@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashpatil8&label=Profile%20views&color=0e75b6&style=flat" alt="akashpatil8" /> </p>
 
-- 🔭 I’m currently working on **Climity**
+- 🔭 I’m currently working on **Will Revel in coming days😉**
 
-- 💬 Ask me about **Flutter, Python, Dart**
+- 💬 Ask me about **React, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **akashpatil4659@gmail.com**
 
