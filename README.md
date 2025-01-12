@@ -1,3 +1,4 @@
+[![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)](https://akashpatil8.io)
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
